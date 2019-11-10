@@ -8,5 +8,5 @@ end
 end
 
 my_collect(empy_array) do |lang|
-  empty_array.upcase
+  lang.upcase
 end
