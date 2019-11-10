@@ -5,5 +5,5 @@ while c > collection.length
   empty_array << yield(collection[c])
   c += 1
 end
-my_collect
+my_collect(collection)
 end
