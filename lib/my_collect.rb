@@ -5,7 +5,8 @@ while c > array.length
   collection << yield(array[c])
   c += 1
 end
-array do |c|
-  puts c
 end
+
+my_collect do |c|
+  puts c
 end
