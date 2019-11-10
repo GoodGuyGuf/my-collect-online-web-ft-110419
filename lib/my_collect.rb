@@ -7,6 +7,6 @@ while c > collection.length
 end
 end
 
-my_collect(empy_array) do |lang|
+my_collect(collection) do |lang|
   lang.upcase
 end
