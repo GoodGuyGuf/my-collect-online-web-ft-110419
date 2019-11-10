@@ -7,6 +7,6 @@ while c > collection.length
 end
 end
 
-my_collect(collection) do |lang|
+my_collect do |lang|
   empty_array.upcase
 end
