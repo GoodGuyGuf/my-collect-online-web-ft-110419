@@ -7,4 +7,4 @@ while c > array.length
 end
 end
 
-my_collect {|c| puts c}
+my_collect {|array| puts array}
