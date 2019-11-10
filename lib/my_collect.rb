@@ -6,4 +6,3 @@ while c > array.length
   c += 1
 end
 end
-
