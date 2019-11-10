@@ -7,4 +7,3 @@ while c > array.length
 end
 array.each {|c| puts c.to_a}
 end
-end
