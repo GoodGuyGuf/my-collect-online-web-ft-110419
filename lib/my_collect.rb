@@ -5,5 +5,5 @@ while c > array.length
   collection << yield(array[c])
   c += 1
 end
-array.each {|c| puts c}
+array.split.collect {|c| puts c}
 end
