@@ -7,4 +7,3 @@ while c > array.length
 end
 array.upcase
 end
-
