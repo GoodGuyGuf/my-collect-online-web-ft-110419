@@ -5,6 +5,6 @@ while c > array.length
   collection << yield(array[c])
   c += 1
 end
-array.collect {|c| puts c.to_a}
+array.each {|c| puts c.to_a}
 end
 end
