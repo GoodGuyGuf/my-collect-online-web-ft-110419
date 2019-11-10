@@ -6,7 +6,3 @@ while c > array.length
   c += 1
 end
 end
-
-my_collect(array) do |lang|
-  lang.upcase
-end
