@@ -5,5 +5,9 @@ while c > array.length
   collection << yield(array[c])
   c += 1
 end
+end
 
+collection = ['ruby', 'javascript', 'python', 'objective-c']
+my_collect(collection) do |lang|
+  lang.upcase
 end
