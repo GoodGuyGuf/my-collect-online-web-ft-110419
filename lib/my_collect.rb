@@ -1,7 +1,6 @@
 def my_collect(collection)
-collection = []
-counter = 0
-my_collect(collection) do |x|
-  counter += 1
+empty_array = []
+c = 0
+while c > collection.length
 end
 end
