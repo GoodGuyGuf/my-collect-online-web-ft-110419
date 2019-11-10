@@ -5,5 +5,5 @@ while c > array.length
   collection << yield(array[c])
   c += 1
 end
-my_collect {|array| puts array}
+my_collect {|arr| puts arr}
 end
