@@ -8,3 +8,4 @@ end
 array.to_a do |c|
   puts c
 end
+end
