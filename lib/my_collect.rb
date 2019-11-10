@@ -6,3 +6,7 @@ while c > collection.length
   c += 1
 end
 end
+
+my_collect(collection) do |lang|
+  empty_array.upcase
+end
