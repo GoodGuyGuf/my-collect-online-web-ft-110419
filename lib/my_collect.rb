@@ -7,6 +7,6 @@ while c > array.length
 end
 end
 
-my_collect do |c|
+my_collect(array) do |c|
   puts c
 end
