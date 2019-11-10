@@ -7,6 +7,6 @@ while c > collection.length
 end
 end
 
-my_collect(collection) do |lang|
+my_collect(languages) do |lang|
   lang.upcase
 end
